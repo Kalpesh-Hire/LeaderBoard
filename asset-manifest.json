@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LeaderBoard/static/css/main.c402fa38.css",
+    "main.js": "/LeaderBoard/static/js/main.9ed47b74.js",
+    "static/js/453.4a07423f.chunk.js": "/LeaderBoard/static/js/453.4a07423f.chunk.js",
+    "index.html": "/LeaderBoard/index.html",
+    "main.c402fa38.css.map": "/LeaderBoard/static/css/main.c402fa38.css.map",
+    "main.9ed47b74.js.map": "/LeaderBoard/static/js/main.9ed47b74.js.map",
+    "453.4a07423f.chunk.js.map": "/LeaderBoard/static/js/453.4a07423f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c402fa38.css",
+    "static/js/main.9ed47b74.js"
+  ]
+}
